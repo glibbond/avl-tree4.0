@@ -1,2 +1,6 @@
 # avl-tree4.0
-An actual working implementation of an AVL-tree written in C++.
+This repository contains:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;an actual working implementation of an AVL-tree written in C++;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a sample program for testing out its functionality.<br />
+<br />
+Detailed descriptions of this data structure and its methods will hopefully appear later in the sample program.
